@@ -125,19 +125,15 @@
 ---
 
 <div align="center">
-
-### 📬 Contact Me
+📬 Contact Me
 
 <p>Have a project in mind or want to collaborate? Feel free to reach out!</p>
-
-[![Gmail](https://img.shields.io/badge/ayeshaamjad819@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshaamjad819@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/AyeshaCodes25-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyeshaCodes25)
+Show Image
+ 
+Show Image
 
 </div>
-
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:0d0d0d&height=100&section=footer)
+Show Image
 
 </div>
