@@ -10,19 +10,40 @@
 
 ### 👩‍💻 About Me
 
-</div>
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Education</strong></td>
+    <td>BS Information Technology — GC University Faisalabad &nbsp;<code>Grade: A</code></td>
+  </tr>
+  <tr>
+    <td>💼</td>
+    <td><strong>Role</strong></td>
+    <td>Front-End Developer & Digital Marketing Specialist</td>
+  </tr>
+  <tr>
+    <td>⏳</td>
+    <td><strong>Experience</strong></td>
+    <td>4+ Years of professional development</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td><strong>Clients</strong></td>
+    <td>25+ international clients across Saudi Arabia & beyond</td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td><strong>Location</strong></td>
+    <td>Sialkot, Pakistan 🇵🇰</td>
+  </tr>
+  <tr>
+    <td>✨</td>
+    <td><strong>Passion</strong></td>
+    <td>Building beautiful, functional web experiences</td>
+  </tr>
+</table>
 
-```javascript
-const ayesha = {
-  education : "BS IT — GC University Faisalabad (Grade: A)",
-  role      : "Front-End Developer & Digital Marketing Specialist",
-  experience: "4+ years",
-  clients   : "25+ international clients across Saudi Arabia & beyond",
-  location  : "Sialkot, Pakistan 🇵🇰",
-  email     : "ayeshaamjad819@gmail.com",
-  passion   : "Building beautiful, functional web experiences 🌐"
-};
-```
+</div>
 
 ---
 
@@ -105,15 +126,13 @@ const ayesha = {
 
 <div align="center">
 
-### 🌐 Connect With Me
+### 📬 Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshaamjad819@gmail.com)
+<p>Have a project in mind or want to collaborate? Feel free to reach out!</p>
+
+[![Gmail](https://img.shields.io/badge/ayeshaamjad819@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayeshaamjad819@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/AyeshaCodes25-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyeshaCodes25)
 
 </div>
 
