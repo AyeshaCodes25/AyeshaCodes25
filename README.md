@@ -37,9 +37,9 @@
     <td>Sialkot, Pakistan 🇵🇰</td>
   </tr>
   <tr>
-    <td>✨</td>
-    <td><strong>Passion</strong></td>
-    <td>Building beautiful, functional web experiences</td>
+    <td>💡</td>
+    <td><strong>Specialization:</strong></td>
+    <td>Responsive UI Design · Digital Marketing · Full-Stack Web Apps</td>
   </tr>
 </table>
 
