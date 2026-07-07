@@ -108,6 +108,41 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌤️ Skyline</h3>
+      <p align="center">
+        A live weather dashboard with real-time forecasts, interactive conditions, and location search, built with vanilla JavaScript and the Open-Meteo API.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AyeshaCodes25/Skyline-Live-Weather-Dashboard">
+          <img src="https://img.shields.io/badge/View%20Repo-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 Signal</h3>
+      <p align="center">
+        A full-stack task management platform styled as a mission-control log, with a complete PHP + MySQL backend, live filtering, and a real-time analytics dashboard.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AyeshaCodes25/Signal">
+          <img src="https://img.shields.io/badge/View%20Repo-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
