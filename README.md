@@ -149,11 +149,53 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 💼 Services
 
-![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyeshaCodes25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6e40c9&icon_color=c9b3ff&text_color=ffffff)
+<table>
+<tr>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaCodes25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=6e40c9&text_color=ffffff)
+<td align="center" width="25%">
+
+### 🌐
+
+**Frontend Development**
+
+Responsive, modern and user-friendly websites using HTML, CSS, JavaScript, Bootstrap & Tailwind CSS.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**UI / UX Design**
+
+Clean, attractive and intuitive user interfaces designed with Figma and Canva.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Full-Stack Web Apps**
+
+Dynamic PHP & MySQL applications with authentication, dashboards and database integration.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+**Digital Marketing**
+
+SEO-friendly websites, social media marketing, branding and content strategies for business growth.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
