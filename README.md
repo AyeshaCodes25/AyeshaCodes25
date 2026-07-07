@@ -24,7 +24,7 @@
   <tr>
     <td>⏳</td>
     <td><strong>Experience</strong></td>
-    <td>4+ Years of professional development</td>
+    <td>Hands-on experience developing modern web applications</td>
   </tr>
   <tr>
     <td>🌍</td>
