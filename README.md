@@ -39,7 +39,7 @@
   <tr>
     <td>💡</td>
     <td><strong>Specialization:</strong></td>
-    <td>Responsive UI Design (React) · PHP/MongoDB Back-Ends · Digital Marketing</td>
+    <td>Responsive UI Design · Digital Marketing · Full-Stack Web Apps</td>
   </tr>
 </table>
 
