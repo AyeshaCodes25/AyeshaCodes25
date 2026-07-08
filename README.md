@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:6e40c9&height=200&section=header&text=Ayesha%20Amjad&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20(Front-End%20Focused)%20%7C%20Digital%20Marketing%20Specialist&descAlignY=55&descSize=16&descColor=c9b3ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:6e40c9&height=200&section=header&text=Ayesha%20Amjad&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20(React%2C%20PHP%2C%20MongoDB%2C%20MySQL)%20%7C%20Digital%20Marketing&descAlignY=55&descSize=15&descColor=c9b3ff)
 
 </div>
 
@@ -39,7 +39,7 @@
   <tr>
     <td>💡</td>
     <td><strong>Specialization:</strong></td>
-    <td>Responsive UI Design · PHP/MySQL Back-Ends · Digital Marketing</td>
+    <td>Responsive UI Design (React) · PHP/MongoDB Back-Ends · Digital Marketing</td>
   </tr>
 </table>
 
@@ -51,7 +51,7 @@
 
 ### 🛠️ Skills & Technologies
 
-**Front-End **
+**Front-End (Primary)**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,7 +60,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Back-End **
+**Back-End (Working Knowledge)**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -171,7 +171,7 @@
 
 **Full-Stack Web Apps**
 
-Dynamic PHP & MySQL applications with authentication, dashboards, payment integration and database design.
+Dynamic React front-ends paired with PHP/MongoDB or MySQL back-ends — authentication, dashboards, payment integration and database design.
 
 </td>
 
