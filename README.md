@@ -84,6 +84,26 @@
 
 <table align="center">
   <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3 align="center">✈️ VoyageX — Travel Operating System</h3>
+      <p align="center">
+        A premium travel planning platform — not a booking site, a full operating system. Live dashboard, interactive world map, budget analytics, drag-and-drop itinerary timeline, travel journal, currency converter, and 6 custom themes.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AyeshaCodes25/voyagex">
+          <img src="https://img.shields.io/badge/View%20Repo-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧴 DermaBridgeX</h3>
       <p align="center">
