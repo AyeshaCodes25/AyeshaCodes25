@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:6e40c9&height=200&section=header&text=Ayesha%20Amjad&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20(Front-End%20Focused)&descAlignY=55&descSize=16&descColor=c9b3ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:6e40c9&height=200&section=header&text=Ayesha%20Amjad&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=16&descColor=c9b3ff)
 
 </div>
 
@@ -19,7 +19,7 @@
   <tr>
     <td>💼</td>
     <td><strong>Role</strong></td>
-    <td>Full-Stack Web Developer (Front-End Focused)</td>
+    <td>Full-Stack Web Developer</td>
   </tr>
   <tr>
     <td>⏳</td>
@@ -63,6 +63,7 @@
 **Back-End (Working Knowledge)**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
