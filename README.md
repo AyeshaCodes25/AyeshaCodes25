@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:6e40c9&height=200&section=header&text=Ayesha%20Amjad&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20(Front-End%20Focused)%20%7C%20Digital%20Marketing%20Specialist&descAlignY=55&descSize=16&descColor=c9b3ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:6e40c9&height=200&section=header&text=Ayesha%20Amjad&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20(Front-End%20Focused)&descAlignY=55&descSize=16&descColor=c9b3ff)
 
 </div>
 
@@ -19,17 +19,17 @@
   <tr>
     <td>💼</td>
     <td><strong>Role</strong></td>
-    <td>Full-Stack Web Developer (Front-End Focused) & Digital Marketing Specialist</td>
+    <td>Full-Stack Web Developer (Front-End Focused)</td>
   </tr>
   <tr>
     <td>⏳</td>
     <td><strong>Experience</strong></td>
-    <td>Hands-on experience developing modern, full-stack web applications</td>
+    <td>4+ years hands-on experience developing modern, full-stack web applications</td>
   </tr>
   <tr>
     <td>🌍</td>
     <td><strong>Clients</strong></td>
-    <td>25+ international clients across Saudi Arabia, New Zealand & beyond</td>
+    <td>10+ international clients across Saudi Arabia & beyond</td>
   </tr>
   <tr>
     <td>📍</td>
@@ -39,7 +39,7 @@
   <tr>
     <td>💡</td>
     <td><strong>Specialization:</strong></td>
-    <td>Responsive UI Design · Digital Marketing · Full-Stack Web Apps</td>
+    <td>Full-Stack Web Apps · Responsive UI Design · REST APIs</td>
   </tr>
 </table>
 
@@ -98,6 +98,26 @@
       </p>
       <p align="center">
         <a href="https://github.com/AyeshaCodes25/voyagex">
+          <img src="https://img.shields.io/badge/View%20Repo-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3 align="center">🌿 Canopy — Knowledge Management Platform</h3>
+      <p align="center">
+        A full-stack Notion/Obsidian-style knowledge platform built from scratch in PHP + MySQLi, no framework. Notes automatically link themselves to related notes via a Smart Relationships engine computed entirely in SQL, with an interactive D3.js graph view, a token-based REST API, and real password-reset email via PHPMailer.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AyeshaCodes25/Canopy">
           <img src="https://img.shields.io/badge/View%20Repo-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -185,7 +205,7 @@
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### ⚙️
 
@@ -195,7 +215,7 @@ Dynamic React front-ends paired with PHP/MongoDB or MySQL back-ends — authenti
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### 🌐
 
@@ -205,23 +225,13 @@ Responsive, modern and user-friendly websites using HTML, CSS, JavaScript, Boots
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### 🎨
 
 **UI / UX Design**
 
 Clean, attractive and intuitive user interfaces designed with Figma and Canva.
-
-</td>
-
-<td align="center" width="25%">
-
-### 📈
-
-**Digital Marketing**
-
-SEO-friendly websites, social media marketing, branding and content strategies for business growth.
 
 </td>
 
