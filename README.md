@@ -59,6 +59,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **Back-End**
 
@@ -119,6 +121,26 @@
       </p>
       <p align="center">
         <a href="https://github.com/AyeshaCodes25/Canopy">
+          <img src="https://img.shields.io/badge/View%20Repo-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3 align="center">🍽️ Dastarkhwan — South Asian Recipe Explorer</h3>
+      <p align="center">
+        A two-page React recipe site with a fully custom visual identity — a searchable, filterable collection of home-kitchen South Asian recipes built as a polished portfolio piece, powered by React Router for navigation and Vite for a fast dev experience.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/AyeshaCodes25/Dastarkhwan">
           <img src="https://img.shields.io/badge/View%20Repo-6e40c9?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
