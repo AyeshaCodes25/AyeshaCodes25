@@ -14,7 +14,7 @@
   <tr>
     <td>🎓</td>
     <td><strong>Education</strong></td>
-    <td>BS Information Technology — GC University Faisalabad &nbsp;<code>Grade: A</code></td>
+    <td>MS Computer Science — University of Management and Technology (UMT) &nbsp;<code> (Currently Pursuing)</code></td>
   </tr>
   <tr>
     <td>💼</td>
